@@ -244,7 +244,7 @@
                     </div>
             </form>
             <div class="footer">
-                All material herein © 2017 Crave Food Restaurant All Rights Reserved
+                All material herein © 2017 Crave Food Restaurant All Rights Reserved.
             </div>
 		
 		</div>
